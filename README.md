@@ -1,1 +1,1 @@
-# SMASTRACT-Attendance-Management-System
+# SMASTRACT-API
